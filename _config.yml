@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Camilo Arias
-email: camilo.arias (at) illinois.edu
+email: camilo.arias (at) unisabana.edu.co
 description: Camilo Arias Camacho
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://camiloariascamacho.github.io" # the base hostname & protocol for your site, e.g. http://example.com
