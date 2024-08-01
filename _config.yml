@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Ignacio Sarmiento Barbieri
-email: srmntbr2 (at) illinois.edu
-description: Ignacio Sarmiento Barbieri
+title: Camilo Arias
+email: camilo.arias (at) illinois.edu
+description: Camilo Arias Camacho
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ignaciomsarmiento.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://camiloariascamacho.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
